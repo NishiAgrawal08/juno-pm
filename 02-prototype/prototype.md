@@ -4,6 +4,7 @@
 
 ## Prototype link
 
+https://rocketship-signal-digest.lovable.app
 _The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
 
 _____
